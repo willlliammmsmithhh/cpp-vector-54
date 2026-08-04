@@ -6,3 +6,5 @@ Add, subtract, and dot product mathematical vectors in C++.
 Clone this project and look at the source files:
 - `main.cpp`
 - `vector.h`
+
+*Initialized by willlliammmsmithhh workspace automation.*
